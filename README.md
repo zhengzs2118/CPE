@@ -1,4 +1,5 @@
 # CPE
 robot
-[robot](/My favorite  robot.md)
+
+[robot](/My_favorite_robot.md)
 
